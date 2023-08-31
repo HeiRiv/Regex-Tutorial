@@ -1,20 +1,12 @@
-# Regex-Tutorial
+# Regex-Tutorial 📝
 
 ## Description
-On this challenge we created a logo-maker that takes in user input to generate a logo and save it as an SVG file,it allows the user to select a color and shape, provide text for the logo, and save the generated SVG to a .svg file.
+This is a tutorial that explains how a specific regular expression, or regex, functions by breaking down each part of the expression and describing what it does.
 
 
 ## Achievements
-- Cretaed a command-line application that accepts user input
--User is prompted for text
--User can enter up to three characters
--User is presented with a list of shapes to choose from: circle, triangle, and square
--User can choose for the shape's color
--User can enter input for all the prompts
--An SVG file is created named `logo.svg`
--The output text "Generated logo.svg" is printed in the command line
--The file `logo.svg` could be open in a browser
--A image shown an image that matches the criteria I entered
+-Learned that a **regex**, which is short for **regular expression**, is a sequence of characters that defines a specific search pattern. When included in code or search algorithms, regular expressions can be used to find certain patterns of characters within a string, or to find and replace a character or sequence of characters within a string. They are also frequently used to validate input. 
+-Also learned how to express ouselves, our ideas and research when trying to write about some specific topic so lots of other people can see and learn also from it. 
 
 ## Final Product
 
